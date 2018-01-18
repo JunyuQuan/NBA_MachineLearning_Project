@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Done in Pycharm, using regions for organization
 #Analysis of NBA players using season long stats
 
 import numpy as np
